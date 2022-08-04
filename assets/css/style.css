@@ -36,16 +36,16 @@ div ~ h3 ~ p {
 
 /* level 3 */
 
-.bgox {
+.bg-box {
     width: 900px;
     height: 600px;
     margin: 0 auto;
     background-color: green;
-    background-image: url(assets/img/pol.jpg),
-    url(assets/img/gras.png),
-    url(assets/img/lam.png),
-    url(assets/img/pon4ik.png),
-    url(assets/img/heag.png);
+    background-image: url("/assets/img/pol.jpg"),
+    url("/assets/img/gras.png"),
+    url("/assets/img/lam.png"),
+    url("/assets/img/pon4ik.png"),
+    url("/assets/img/heag.png");
     background-position: center, bottom, top, right, left;
     background-size: auto, 180px, 40px, 25px, 25px;
     background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
